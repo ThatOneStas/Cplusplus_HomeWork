@@ -1,0 +1,4 @@
+﻿  homework10.11.cpp
+C:\Users\Cтас\source\repos\homework10.11\homework10.11\homework10.11.cpp(18,17): warning C4101: 'video': unreferenced local variable
+C:\Users\Cтас\source\repos\homework10.11\homework10.11\homework10.11.cpp(19,17): warning C4101: 'media': unreferenced local variable
+  homework10.11.vcxproj -> C:\Users\Cтас\source\repos\homework10.11\x64\Debug\homework10.11.exe
