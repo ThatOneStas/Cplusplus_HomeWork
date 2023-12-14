@@ -1,0 +1,5 @@
+﻿  homework15.12.cpp
+C:\Users\Cтас\source\repos\homework15.12\homework15.12\homework15.12.cpp(16,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cтас\source\repos\homework15.12\homework15.12\homework15.12.cpp(20,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Cтас\source\repos\homework15.12\homework15.12\homework15.12.cpp(29): warning C4715: 'checkIfFibonachi': not all control paths return a value
+  homework15.12.vcxproj -> C:\Users\Cтас\source\repos\homework15.12\x64\Debug\homework15.12.exe
