@@ -1,0 +1,15 @@
+﻿  homework03.02.24.cpp
+C:\Users\Cтас\source\repos\homework03.02.24\homework03.02.24\ex4.h(45,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'homework03.02.24.cpp')
+  
+C:\Users\Cтас\source\repos\homework03.02.24\homework03.02.24\ex4.h(55,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'homework03.02.24.cpp')
+  
+C:\Users\Cтас\source\repos\homework03.02.24\homework03.02.24\ex4.h(59,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'homework03.02.24.cpp')
+  
+C:\Users\Cтас\source\repos\homework03.02.24\homework03.02.24\ex4.h(62,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'homework03.02.24.cpp')
+  
+C:\Users\Cтас\source\repos\homework03.02.24\homework03.02.24\ex2.h(36): warning C4715: 'Array::operator[]': not all control paths return a value
+  homework03.02.24.vcxproj -> C:\Users\Cтас\source\repos\homework03.02.24\x64\Debug\homework03.02.24.exe
