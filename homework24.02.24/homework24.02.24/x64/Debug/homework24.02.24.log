@@ -1,0 +1,3 @@
+﻿  homework24.02.24.cpp
+C:\Users\Cтас\source\repos\homework24.02.24\homework24.02.24\homework24.02.24.cpp(5,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  homework24.02.24.vcxproj -> C:\Users\Cтас\source\repos\homework24.02.24\x64\Debug\homework24.02.24.exe
