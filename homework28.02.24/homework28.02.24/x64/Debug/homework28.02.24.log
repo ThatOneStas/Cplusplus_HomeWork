@@ -1,0 +1,4 @@
+﻿  homework28.02.24.cpp
+C:\Users\Cтас\source\repos\homework28.02.24\homework28.02.24\homework28.02.24.cpp(114): warning C4715: 'MyFixedVector<int>::operator[]<int>': not all control paths return a value
+C:\Users\Cтас\source\repos\homework28.02.24\homework28.02.24\homework28.02.24.cpp(114): warning C4715: 'MyFixedVector<int>::operator[]<char const *>': not all control paths return a value
+  homework28.02.24.vcxproj -> C:\Users\Cтас\source\repos\homework28.02.24\x64\Debug\homework28.02.24.exe
