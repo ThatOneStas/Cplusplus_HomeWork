@@ -1,0 +1,65 @@
+﻿  game_arcade_exam.cpp
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\fortuneWheel.h(39,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\fortuneWheel.h(43,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\fortuneWheel.h(47,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\fortuneWheel.h(51,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\fortuneWheel.h(59,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(64,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(72,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(78,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(81,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(86,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(92,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(95,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(100,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(106,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(109,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(113,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\guessTheNum.h(78,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\guessTheNum.h(81,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\guessTheNum.h(95,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\guessTheNum.h(109,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'game_arcade_exam.cpp')
+  
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\casino.h(54): warning C4715: 'Casino::getGuestFromList': not all control paths return a value
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\casino.h(44): warning C4715: 'Casino::findGuestInList': not all control paths return a value
+C:\Users\Cтас\source\repos\game_arcade_exam\game_arcade_exam\slots.h(25): warning C4715: 'Slots::getRandItem': not all control paths return a value
+  game_arcade_exam.vcxproj -> C:\Users\Cтас\source\repos\game_arcade_exam\x64\Debug\game_arcade_exam.exe
